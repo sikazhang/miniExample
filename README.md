@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Himood Demo
 
-You can use the [editor on GitHub](https://github.com/sikazhang/miniExample/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A simple demo that help u choose a mood randomly
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> This repo is an example of [himood](https://github.com/sikazhang/miniDemo).
 
-### Markdown
+## Overview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can click this link to see the effect of this project running online.
 
-```markdown
-Syntax highlighted code block
+<http://life.whuzxq.com/miniExample/public/>
 
-# Header 1
-## Header 2
-### Header 3
+## Startup
 
-- Bulleted
-- List
+1. Clone this repository to your local directory.
 
-1. Numbered
-2. List
+2. Execute `yarn` to install all dependencies for this project.
 
-**Bold** and _Italic_ and `Code` text
+3. Execute `yarn dev` to start up this project in development mode.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sikazhang/miniExample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. Open `localhost:9000` on your favorite browser.
